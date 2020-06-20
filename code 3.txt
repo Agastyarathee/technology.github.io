@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head><title>present and past </title></head>
+<body BACKGROUND ="https://storage.pixteller.com/designs/designs-images/2020-06-12/09/mockup-frame-image-avatar-1-5ee3cbe36dd4e.png"
+background-repeat: "no-repeat">>
+<marquee><h1><p style="color:white">see the video and find the difference between past and present</p></h1></marquee>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DENG7Q7VRgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://images.emojiterra.com/mozilla/512px/1f448.png">
+<ol>
+<li><h1><a href="home page.html">back to main page</a></h1></li>
+</ol>
+
+</body>
+</html>   
+                
